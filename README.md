@@ -1,2 +1,3 @@
 # Stroke-Prediction
-Prediction of stroke in patients using various Machine Learning Algorithms.
+
+This project makes a predictor for stroke prediction that tells you how likely it is that someone will have a stroke and what factors are most likely to cause one. Stroke prediction may be conducted by taking into account many factors, including age, presence of heart disease, smoking status, and other relevant aspects. The dataset is analyzed to determine the likelihood of a person experiencing a stroke. The dataset's characteristics are then used in six distinct machine learning models to forecast strokes, and their effectiveness is then evaluated and compared. The objective is to examine the variables that influence the likelihood of experiencing a stroke. The data may be used to develop a system that forecasts strokes and identifies the primary causes of strokes.
